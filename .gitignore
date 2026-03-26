@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Vim
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Generated docs
+docs/.generated/
+
+# Shell script outputs
+*.out
